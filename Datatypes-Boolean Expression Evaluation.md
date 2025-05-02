@@ -27,6 +27,7 @@ print("d:", d)
 ```
 
 ## Output
-![image](https://github.com/user-attachments/assets/1ac32cd8-ac18-4d02-8916-4cb854d629ef)
+![2](https://github.com/user-attachments/assets/7e3d8fcb-d3cc-44d0-be19-929d37e58e27)
+
 ## Result
 Thus the program has been successfully executed
